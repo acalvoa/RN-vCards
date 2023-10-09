@@ -1,7 +1,7 @@
 {
-  "name": "vcards-js",
+  "name": "rn-vcards-js",
   "version": "2.10.0",
-  "description": "Create vCards to import contacts into Outlook, iOS, Mac OS, Android devices, and more.",
+  "description": "A fork from vcards-js, to use library in RN witouth file features.",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/enesser/vCards-js.git"
+    "url": "https://github.com/acalvoa/RN-vCards.git"
   },
   "keywords": [
     "vCard",
@@ -26,9 +26,8 @@
   "author": "Eric J Nesser",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/enesser/vCards-JS/issues"
+    "url": "https://github.com/acalvoa/RN-vCards/issues"
   },
-  "homepage": "https://github.com/enesser/vCards-JS",
   "contributors": [
     "Eric J Nesser <enesser@gmail.com> (https://github.com/enesser)",
     "Tobias Müller (https://github.com/webdepp)",
@@ -37,6 +36,7 @@
     "Jimmy Tsao <jimmy.tsao@gmail.com> (https://github.com/jimmytsao)",
     "Michael Polino (https://github.com/mplno)",
     "sensotix (https://github.com/sensotix)",
-    "Randy Stevens (https://github.com/RandyStevens)"
+    "Randy Stevens (https://github.com/RandyStevens)",
+    "Angelo Calvo (https://github.com/acalvoa)"
   ]
 }
